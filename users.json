@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "name": "Sara",
+    "password": "abcd",
+    "email": "sara@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "Ahmed",
+    "password": "ahmed123",
+    "email": "ahmed@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": 4,
+    "name": "Fatima",
+    "password": "fatima456",
+    "email": "fatima@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": 5,
+    "name": "Usman",
+    "password": "usman789",
+    "email": "usman@gmail.com",
+    "role": "admin"
+  }
+]
